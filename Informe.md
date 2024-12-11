@@ -59,7 +59,7 @@ Authorization: Bearer <TOKEN>
 La documentación del endpoint fue creada en formato **OpenAPI** utilizando **Swagger**.
 
 ### **Archivo YAML**
-El archivo completo se encuentra [aquí](./G4_1-API_Twitter-1.0.0-resolved.yaml).
+El archivo completo se encuentra [`G4_1-API_Twitter-1.0.0-resolved.yaml`](./G4_1-API_Twitter-1.0.0-resolved.yaml).
 
 ---
 
