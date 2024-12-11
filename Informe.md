@@ -137,6 +137,11 @@ El archivo completo se encuentra [aquí](./G4_1-API_Twitter-1.0.0-resolved.yaml)
 
 ---
 
+## **5. Flujo Final**
+A continuación, se presenta el flujo de trabajo final implementado en Orange Data Mining para el análisis de los tweets extraídos desde la API de Twitter. El flujo integra todas las etapas del procesamiento, análisis y visualización de datos: 
+  ![Flujo de Trabajo Final](./images/flujo.png)
+
+---
 ## **Archivos del Proyecto**
 1. [Archivo CSV con los datos extraídos](./API_X_Tweets.csv).  
 2. [Flujo de trabajo en Orange (.ows)](./workflow.ows).  
@@ -145,7 +150,8 @@ El archivo completo se encuentra [aquí](./G4_1-API_Twitter-1.0.0-resolved.yaml)
    - Nube de Palabras  
    - Tabla de Sentimiento  
    - Gráfico de Barras  
-   - Gráfico de Dispersión  
+   - Gráfico de Dispersión
+   - Flujo de trabajo
 
 ---
 
@@ -153,5 +159,3 @@ El archivo completo se encuentra [aquí](./G4_1-API_Twitter-1.0.0-resolved.yaml)
 Este proyecto permitió combinar la extracción de datos desde la API de Twitter con análisis visuales y de texto en Orange. La documentación en **Swagger** asegura que el endpoint utilizado sea entendible y reusable por cualquier desarrollador.
 
 ---
-
-¡Listo para entregar y subir en GitHub! 🚀
